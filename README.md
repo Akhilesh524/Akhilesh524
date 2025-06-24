@@ -3,7 +3,7 @@ I'm `Akhilesh Bairwa` 👨‍💻
 
 - 🔍 Currently exploring **Backend Development**
 - 💡 Interested in **Open Source Projects** & **Tech Communities**
-- 🎓 B.Tech Computer Science & Engineering Student at **University Institute of Technology RGPV**
+- 🎓 B.Tech Computer Science & Engineering Student at **University Institute of Technology RGPV, Shivpuri**
 - 🛠️ Developer | Learner | Explorer
 
 ---
