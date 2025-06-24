@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hello world! 🌥️  
+I'm `Akhilesh Bairwa` 👨‍💻
 
-<!--
-**Akhilesh524/Akhilesh524** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔍 Currently exploring **Backend Development** 
+- 💡 Interested in **Open Source Projects** & **Tech Communities**
+- 🎓 B.Tech CSE Student at University Institute of Technology RGPV
+- 🛠️ Developer | Learner | Explorer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Connect with me:
+[LinkedIn](www.linkedin.com/in/akhilesh-bairwa) • [Email](a9977134203@gmail.com)
+
+---
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=yourusername)
