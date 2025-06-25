@@ -1,5 +1,5 @@
 ### Hello world! 🌥️  
-I'm `Akhilesh Bairwa` 👨‍💻
+**I'm `Akhilesh Bairwa`**👨‍💻
 
 - 🔍 Currently exploring **Backend Development**
 - 💡 Interested in **Open Source Projects** & **Tech Communities**
